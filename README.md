@@ -1,6 +1,4 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
+# 📦 Pruthak's Starter App 
 ```
 
 Description of the app ...
